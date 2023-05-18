@@ -19,7 +19,7 @@ padding: 0 8px;
 }
 
 header{
-background-color: var(--primarycolor);
+background-color: var(--primary-color);
 height: 50px;
 }
 
@@ -168,7 +168,7 @@ height: 64px;
 .section-2-container{
 margin-top: 16px;
 height: 280px;
-background-image: url('https://rukminim1.flixcart.com/fk-p-flap/3376/560/image/0735712fe84c602d.jpg?q=50
+background-image: url('https://rukminim1.flixcart.com/fk-p-flap/3376/560/image/0735712fe84c602d.jpg?q=50'
 );
 background-size: cover;
 background-position: center;
@@ -178,7 +178,7 @@ background-repeat: no-repeat;
 .section-3-container{
 margin-top: 8px;
 height: 122px;
-background-image: url('https://rukminim1.flixcart.com/fk-p-flap/2848/246/image/d56a3ed6d200038a.jpg?q=50
+background-image: url('https://rukminim1.flixcart.com/fk-p-flap/2848/246/image/d56a3ed6d200038a.jpg?q=50'
 );
 background-size: cover;
 background-position: center;
@@ -197,7 +197,7 @@ align-items: center;
 .section-4-offers{
 margin-top: 8px;
 height: 100%;
-background-image: url('https://rukminim1.flixcart.com/fk-p-flap/278/278/image/1e483f8045ec13a8.jpg?q=90
+background-image: url('https://rukminim1.flixcart.com/fk-p-flap/278/278/image/1e483f8045ec13a8.jpg?q=90'
 );
 background-position: bottom;
 background-repeat: no-repeat;
